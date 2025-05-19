@@ -27,7 +27,7 @@ I'm a senior year computer science student currently working on my thesis and bu
 ## 🔥 Featured Projects
 
 ### [📌 AdventoriaMetrics](https://github.com/Spolkip/AdventoriaMetrics)
-A simple React app that lets users manage tasks in real time. Built with Tailwind CSS and JS.
+A React and Js app that uses discord servers to get data can display them on website. Built with Tailwind CSS and JS.
 
 > Want to see more? Check my pinned repos or explore my GitHub!
 
