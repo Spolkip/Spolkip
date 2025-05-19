@@ -65,7 +65,7 @@ My senior year thesis project — a Python-based data analysis tool using pandas
 
 - 🧠 I love solving logical puzzles and debugging code
 - 🎮 Gamer and game-dev enthusiast
-- ☕ Runs on code and coffee
+- ☕ Runs on code and monster
 
 ---
 
