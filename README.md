@@ -29,9 +29,6 @@ I'm a senior year computer science student currently working on my thesis and bu
 ### [📌 AdventoriaMetrics](https://github.com/Spolkip/AdventoriaMetrics)
 A simple React app that lets users manage tasks in real time. Built with Tailwind CSS and JS.
 
-### [📊 Thesis Tool](https://github.com/Spolkip/thesis-tool)
-My senior year thesis project — a Python-based data analysis tool using pandas and Plotly.
-
 > Want to see more? Check my pinned repos or explore my GitHub!
 
 ---
