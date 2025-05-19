@@ -32,9 +32,8 @@ I'm a senior year computer science student currently working on my thesis and bu
 
 ## 🔗 Connect with Me
 
-- 📫 Email: [your.email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) *(optional)*
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) *(if you have one)*
+- 📫 Email: [spolkip@gmail.com]
+- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
 ---
 
