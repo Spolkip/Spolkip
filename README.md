@@ -24,16 +24,48 @@ I'm a senior year computer science student currently working on my thesis and bu
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 Featured Projects
 
-![Spyros' GitHub stats](https://github-readme-stats.vercel.app/api?username=Spyros&show_icons=true&theme=default)
+### [📌 CoolApp](https://github.com/Spolkip/CoolApp)
+A simple React app that lets users manage tasks in real time. Built with Firebase and Tailwind CSS.
+
+### [📊 Thesis Tool](https://github.com/Spolkip/thesis-tool)
+My senior year thesis project — a Python-based data analysis tool using pandas and Plotly.
+
+> Want to see more? Check my pinned repos or explore my GitHub!
 
 ---
 
-## 🔗 Connect with Me
+## 🎯 Currently Learning
 
-- 📫 Email: [spolkip@gmail.com]
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- React and React Hooks
+- JavaScript ES6+ best practices
+- GitHub Actions & CI/CD
+- DevOps basics and Docker
+
+---
+
+## 📈 GitHub Stats
+
+![Spyros' GitHub stats](https://github-readme-stats.vercel.app/api?username=Spolkip&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spolkip&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Spolkip&theme=default)
+
+---
+
+## 📬 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:spolkip@gmail.com)
+
+> If you're into clean code, creative projects, or want to collaborate — let's connect!
+
+---
+
+## ⚡ Fun Facts
+
+- 🧠 I love solving logical puzzles and debugging code
+- 🎮 Gamer and game-dev enthusiast
+- ☕ Runs on code and coffee
 
 ---
 
