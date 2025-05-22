@@ -6,11 +6,10 @@ I'm a senior year computer science student currently working on my thesis and bu
 
 ## 🧠 About Me
 
-- 🎓 Final-year CS student
-- 📚 Currently learning **React** and diving deeper into **JavaScript**
-- 🐍 Comfortable with **Python**, **JavaScript**, **HTML**, and **CSS**
-- 🧪 Working on my **thesis** and growing my developer portfolio
-- 🌱 Always curious, always learning!
+-  Final-year CS student
+-  Currently learning **React** and diving deeper into **JavaScript**
+-  Comfortable with **Python**, **JavaScript**, **HTML**, and **CSS**
+-  Working on my **thesis** and growing my developer portfolio
 
 ---
 
@@ -26,7 +25,7 @@ I'm a senior year computer science student currently working on my thesis and bu
 
 ## 🔥 Featured Projects
 
-### [📌 AdventoriaMetrics](https://github.com/Spolkip/AdventoriaMetrics)
+### [AdventoriaMetrics](https://github.com/Spolkip/AdventoriaMetrics)
 A React and Js app that uses discord servers to get data can display them on website. Built with Tailwind CSS and JS.
 
 > Want to see more? Check my pinned repos or explore my GitHub!
